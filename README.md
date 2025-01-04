@@ -5,10 +5,8 @@
       I enjoy creating scalable, fun, and awesome software solutions. 
       Currently, I’m building stuff at <em><span style="color: #0000FF;">Goldman Sachs</span></em>.
    </p>
-   <div style="margin-top: 20px; margin-bottom: 20px;">
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl6MTY2dTdoa2J0OWJrOGZ6NnR2ZmNnZG1qbjNxMTZhZ2ViMDFsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sgThSv9BGHhyo/giphy.gif" width="25%" style="margin-bottom: 20px;" />
+   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGl6MTY2dTdoa2J0OWJrOGZ6NnR2ZmNnZG1qbjNxMTZhZ2ViMDFsMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sgThSv9BGHhyo/giphy.gif" width="25%" style="margin-top: 20px;" />
       <img src="https://media1.tenor.com/m/5qnwDDZOzMoAAAAd/one-piece-afro-luffy.gif" width="25%" style="margin-top: 20px;" />
-   </div>
    <hr>
    <p style="font-size: .8em">
       Feel free to reach out via email at 
@@ -27,4 +25,3 @@
       <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white" alt="Twitch">
    </a>
 </div>
-
